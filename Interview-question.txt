@@ -1,0 +1,18 @@
+1. What is difference b/w Dataset and dataframe.
+2. What do you mean buketting in spark.
+3. Application for bucketing.
+4. How to compare two dataframe and write the differnece in third..
+5. We have table employee and what is top 20% salary from that table. Write a SQL Query.
+6. How to drop last row from dataframe.
+7. Types of RDD.
+8. What is case class.
+9. Is there any other way for pattern matching.
+10. How to give schema to a dataframe.
+11. We have 2 table we want to perform joins using Spark SQL. Write a query for Innner Join.
+12. What is technique for performance improvement for spark job.
+13. What is Paas service in Azure cloud.
+14. How to perform data modling on raw data.
+15. Differnce b/w Tuple and list and which is better.
+16. What is parque format file and why we store it into parque format.
+17. Differece b/w CSV and excel file.
+18.
